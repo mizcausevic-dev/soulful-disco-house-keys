@@ -1,0 +1,26 @@
+{
+  "title": "Soulful Disco House Keys",
+  "study": "z0501",
+  "bpm": 122,
+  "source_audio": "preview/soulful-disco-house-keys-simple-synth-preview.mp3",
+  "source_audio_sha256": "9eabd7fddd2d0fc4fd03b59e4347dc340d63970ffbcbb453a62fcf14aab27baa",
+  "source_midi": "midi/z0501-soulful-disco-house-keys-opening/z0501-soulful-disco-house-keys-opening-combined.mid",
+  "source_midi_sha256": "6a661b030bd8bdd5f97dd36ce726643817f19156905438d20a006525ec0cb0ef",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f503556f02ac83b66b6368afa6b90003da7b8eb25bee844ae8e543ec3b9b376a",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "3d79167341d44ca7defbd11024db49464302e660a42b350537f7b82f78c2964f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "a236a0a7d796a4b7a82d6ebc7af6548ddf418c9e9bbe9bd22cf1787a2c7edb9a",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

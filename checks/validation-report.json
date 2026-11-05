@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:45.804990+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "7cc2d4e59f694ea3cb4c87dbb42b2f80370685176e1167de028464ec0a750088",
+      "errors": []
+    },
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a94e864982727ec73bce6e53f209e012fed2864e46ed65bda5e320caff1c3a42",
+      "errors": []
+    },
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/principal_motif.mid",
+      "bytes": 818,
+      "sha256": "f4fb7fd8165b3cde85c24ddb9a3d76cdfe948047b2d877aae37ef91d05ce07e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "60bd484e39b37e0e53314fecf289df2a8800e2ebc38eb2c29d5b3a0201f017cb",
+      "errors": []
+    },
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cc97f9c847c87ae42b89863a285acde1349c50d36d1bc7979b130bed268eacb5",
+      "errors": []
+    },
+    {
+      "path": "midi/z0501-soulful-disco-house-keys-opening/z0501-soulful-disco-house-keys-opening-combined.mid",
+      "bytes": 6040,
+      "sha256": "6a661b030bd8bdd5f97dd36ce726643817f19156905438d20a006525ec0cb0ef",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "4518da8d79084b7f2c1709ab09cb1de93fad011d66bd28fcee1eab72a05cb3e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "670eeed97b50141015e9e4c4a0485e621a994e2b5b14b596825d9d6a637dc8e0",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/principal_motif.mid",
+      "bytes": 818,
+      "sha256": "73fd085e18bafee2a0c57b21f78b9366119f563f58a3121a2d04971778c8930a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "694a117553fbcbd1ebac9b2e33360839ba84d4c9adb569b845ffa498217b2a15",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3ae7d3f67e5e415c5531d60879581f2a504aa7bf884c1ba8be5b26d0488bd578",
+      "errors": []
+    },
+    {
+      "path": "midi/z0502-soulful-disco-house-keys-variation/z0502-soulful-disco-house-keys-variation-combined.mid",
+      "bytes": 6040,
+      "sha256": "1a43ba9b88c119defe37a716b3dc3f383cb5cb8bc21bee3b9c6e42f394077e49",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "80a1bb726953dc8d42193108f1887d5bcb31a4c1d760ade835a6eb23a478796d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e0ce0e578999cf078aa2c41206cfed3cfe2a30b6dbcf1dfe6a49c0de17db3b7e",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "3e5c338e0c1cdde6ff1279ff48549ea330f8a7857650c805d5df5aac49171442",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a44c766111b498ea1fbf7d02a8200ac2024f3bedb4b866b190762d985792a6f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7e202070aad2da5a67d77b49c330ee3a222784e95f69a79c96e25ac77c1a1ffe",
+      "errors": []
+    },
+    {
+      "path": "midi/z0503-soulful-disco-house-keys-contrast/z0503-soulful-disco-house-keys-contrast-combined.mid",
+      "bytes": 6004,
+      "sha256": "b589eb64ae31d6454eadeb40a8baceaec5ff55e75fc3b5c9c02dc5e9d108f224",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a314f105d580d2384a63d6810487637bf8a978d83ed16ef02faa72e408ac9e8b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e5172d1f6566bf5746b743447031c0a89b3a2a67062ba1933032b8768ecc4128",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/principal_motif.mid",
+      "bytes": 784,
+      "sha256": "163dba4ef018f54b9cc80a76925240612ae3530bba5811e261fa0e262523c7a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a5e90c24efb5b7b3bff695c97325c4c04133e56e853ceee1c6f58e228b7f3c38",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "30990716f54e24d430cebbd534e8132036ee61c8a385d8353fe79d7fb0083faf",
+      "errors": []
+    },
+    {
+      "path": "midi/z0504-soulful-disco-house-keys-return/z0504-soulful-disco-house-keys-return-combined.mid",
+      "bytes": 6006,
+      "sha256": "40d6f6e2a1d80e33048a62202bedebf7c4f004a07a9792cef56adfe756a4a85f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

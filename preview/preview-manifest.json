@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/soulful-disco-house-keys-simple-synth-preview.mp3",
+  "preview_sha256": "9eabd7fddd2d0fc4fd03b59e4347dc340d63970ffbcbb453a62fcf14aab27baa",
+  "source_midi_path": "midi/z0501-soulful-disco-house-keys-opening/z0501-soulful-disco-house-keys-opening-combined.mid",
+  "source_midi_sha256": "6a661b030bd8bdd5f97dd36ce726643817f19156905438d20a006525ec0cb0ef",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0501",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.124176,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
