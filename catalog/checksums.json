@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/soulful-disco-house-keys-midi.zip",
-      "bytes": 31930,
-      "sha256": "939b15660a712e36d7b29843dad11d83a300485153a2227c873b9416b96cc7a1"
+      "bytes": 32917,
+      "sha256": "c98f7c3ecbf33876afaf73949599579790d24745317881b3665594400ae1941f"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "0ae1514f9c92eef70d6f4421435504153d78d7162e0000f44db393ad324f7dc1"
+      "bytes": 10210,
+      "sha256": "867b927b81a14f5ceadfd03d4f71c4c136899e1c0f0a66aa2e636e6120dc835e"
     },
     {
       "path": "midi/z0501-soulful-disco-house-keys-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "40d6f6e2a1d80e33048a62202bedebf7c4f004a07a9792cef56adfe756a4a85f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1182,
       "sha256": "54850e5a6403379c9957c699c5e168b42b81e0d3cee88b3831682d39d2636584"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3994,
-      "sha256": "6805be0f11b486003b88435f5643ada4092adc4317e5e3c9fb368a4fcc25e41e"
+      "bytes": 4109,
+      "sha256": "d39cd3bbb552a735c6636c9f3eac452f0f17ae16b84f05f343f22fb0c64b2c31"
     },
     {
       "path": "social/instagram/caption.txt",
